@@ -54,6 +54,9 @@ QR_Decomposition(a)
 ```
 
 ## Output
+
+
+
 ![alt text](<Screenshot (45).png>)
 ![alt text](<Screenshot (46).png>)
 
